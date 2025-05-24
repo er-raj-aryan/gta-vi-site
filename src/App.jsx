@@ -173,11 +173,11 @@ function App() {
                 playsinline
                 src="/gta_video.mp4"
               ></video>
-              <div className="text absolute top-20 left-1/2 -translate-x-1/2 scale-[1] rotate-[-10deg] flex flex-col gap-1 font-black text-shadow-lg">
+              <div className="text absolute top-20 left-1/2 -translate-x-1/2 scale-[1] rotate-[-10deg] flex flex-col gap-1 font-black text-shadow-lg shadow-2xl p-2">
                 <h1 className="text-[5rem] leading-none -ml-40 bg-gradient-to-r  text-white bg-clip-text drop-shadow-[0_0_10px_rgba(255,0,255,0.8)]">
                   grand
                 </h1>
-                <h1 className="text-[5rem] leading-none -ml-25 bg-gradient-to-r  text-white bg-clip-text drop-shadow-[0_0_10px_rgba(0,255,255,0.7)]">
+                <h1 className="text-[5rem] leading-[2rem] -ml-25 bg-gradient-to-r text-white bg-clip-text drop-shadow-[0_0_10px_rgba(0,255,255,0.7)]">
                   theft
                 </h1>
                 <h1 className="text-[5rem] leading-none -ml-30 bg-gradient-to-r  text-white bg-clip-text drop-shadow-[0_0_10px_rgba(255,100,255,0.9)]">

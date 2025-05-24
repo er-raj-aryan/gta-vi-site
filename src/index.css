@@ -1,16 +1,21 @@
 @import "tailwindcss";
-@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
 
 @font-face {
-  font-family: "pricedown";
-  src: url("./pricedown.otf");
+  font-family: 'Pricedown V2';
+  src: url('https://db.onlinewebfonts.com/t/a7600f3ef906b725df694b7e08952f06.eot');
+  src: url('https://db.onlinewebfonts.com/t/a7600f3ef906b725df694b7e08952f06.eot?#iefix') format('embedded-opentype'),
+       url('https://db.onlinewebfonts.com/t/a7600f3ef906b725df694b7e08952f06.woff2') format('woff2'),
+       url('https://db.onlinewebfonts.com/t/a7600f3ef906b725df694b7e08952f06.woff') format('woff'),
+       url('https://db.onlinewebfonts.com/t/a7600f3ef906b725df694b7e08952f06.ttf') format('truetype'),
+       url('https://db.onlinewebfonts.com/t/a7600f3ef906b725df694b7e08952f06.svg#Pricedown V2') format('svg');
 }
+
 
 html,
 body {
   width: 100%;
   height: 100%;
-  font-family: pricedown;
+   font-family: 'Pricedown V2', sans-serif;
 }
 
 
@@ -76,6 +81,9 @@ body {
   }
 }
 
+.text h1 {
+  /* text-transform:capitalize; */
+}
 
 /* UPDATED CSS CLASSES */
 /* Add this to your global styles (e.g., index.css or Tailwind config)
