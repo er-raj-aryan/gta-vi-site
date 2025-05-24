@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
 
 @font-face {
   font-family: "pricedown";
@@ -9,7 +10,8 @@ html,
 body {
   width: 100%;
   height: 100%;
-  font-family: "pricedown";
+  font-family: "Luckiest Guy", cursive;
+;
 }
 
 

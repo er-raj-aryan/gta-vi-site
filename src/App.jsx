@@ -182,7 +182,8 @@ function App() {
                 </h1>
                 <h1 className="text-[5rem] leading-none -ml-30 bg-gradient-to-r  text-white bg-clip-text drop-shadow-[0_0_10px_rgba(255,100,255,0.9)]">
                   auto{" "}
-                  <span className="ml-0.5 bg-gradient-to-r from-yellow-300 via-orange-500 to-pink-600 text-transparent bg-clip-text drop-shadow-[0_0_12px_rgba(255,200,0,0.9)]">
+                  <span className="ml-0.5 bg-gradient-to-r from-yellow-300 via-orange-500 to-pink-600 text-transparent 
+                  bg-clip-text drop-shadow-[0_0_12px_rgba(255,200,0,0.9)]">
                     VI
                   </span>
                 </h1>
